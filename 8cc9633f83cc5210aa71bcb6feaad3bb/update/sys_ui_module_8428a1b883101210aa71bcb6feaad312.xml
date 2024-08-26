@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="IPAddressInfo">4028a1b883101210aa71bcb6feaad30f</application>
+        <filter/>
+        <name>IPAddressInfos</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_1301219_iplookup.ipaddressinfo_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-08-26 02:24:55</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8428a1b883101210aa71bcb6feaad312</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>IPAddressInfos</sys_name>
+        <sys_package display_value="IPLookup" source="x_1301219_iplookup">8cc9633f83cc5210aa71bcb6feaad3bb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPLookup">8cc9633f83cc5210aa71bcb6feaad3bb</sys_scope>
+        <sys_update_name>sys_ui_module_8428a1b883101210aa71bcb6feaad312</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-08-26 02:24:55</sys_updated_on>
+        <table>x_1301219_iplookup_ipaddressinfo</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
